@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContextMenus.cs" />
-    <Compile Include="HotKey.cs" />
     <Compile Include="LowLevelKeyboardHook.cs" />
     <Compile Include="ProcessIcon.cs" />
     <Compile Include="Program.cs" />
